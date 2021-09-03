@@ -1,0 +1,16 @@
+C:\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.exe
+C:\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.deps.json
+C:\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.json
+C:\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.dev.json
+C:\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.dll
+C:\source\repos\examplerepo\bin\Debug\net5.0\ref\examplerepo.dll
+C:\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.pdb
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.csproj.AssemblyReference.cache
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfoInputs.cache
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfo.cs
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.csproj.CoreCompileInputs.cache
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.dll
+C:\source\repos\examplerepo\obj\Debug\net5.0\ref\examplerepo.dll
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.pdb
+C:\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.genruntimeconfig.cache
